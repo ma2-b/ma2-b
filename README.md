@@ -10,7 +10,7 @@
 - 💬 Ask me about **Python, Django**
 
 - 🥅 2022 Goals: **Contribute in open source projects**
-- 
+ 
 - ⚡ Fun fact **I like to play soccer**
 
 <h3 align="left">Connect with me:</h3>
